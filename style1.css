@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+.cardápio {
+    border-collapse: collapse;
+    margin: auto;
+    width: 60%;
+}
+
+.cardápio th {
+    background-color: #ddd;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.cardápio td {
+    padding: 10px;
+    border: 1px solid black;
+}
